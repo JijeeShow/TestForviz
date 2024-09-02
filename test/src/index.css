@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "josefin";
+    src: url(../public/DMSans-VariableFont_opsz\,wght.ttf)  ;
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
+  body {
+    font-family: josefin;
+  }

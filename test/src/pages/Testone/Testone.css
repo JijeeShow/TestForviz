@@ -1,0 +1,15 @@
+.containerbox {
+  display: flex;
+  padding: 0 4%;
+}
+.fleximage {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  justify-content: space-between;
+}
+
+.image {
+  height: 150px;
+  width: auto;
+}
